@@ -16,10 +16,11 @@
   </header>
   <div class="flex items-center w-full gap-4 container mx-auto py-4">
     <div class="bg-blue-200 rounded-lg w-full h-96"></div>
-    <div class="rounded-lg">
+    <div class="rounded-lg h-96">
       <iframe
         src="https://main.d2i8s6aclypvu3.amplifyapp.com/"
         frameborder="0"
+        class="h-full"
       ></iframe>
     </div>
   </div>
