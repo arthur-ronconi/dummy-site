@@ -21,7 +21,7 @@
         src="https://main.dqma499m1s34n.amplifyapp.com/"
         frameborder="0"
         class="h-full"
-        allow-storage-access-by-user-activation
+        allow="storage-access"
       ></iframe>
     </div>
   </div>
