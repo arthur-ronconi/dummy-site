@@ -18,7 +18,7 @@
     <div class="bg-blue-200 rounded-lg w-full h-96"></div>
     <div class="rounded-lg h-96">
       <iframe
-        src="https://main.d2i8s6aclypvu3.amplifyapp.com/"
+        src="https://main.dqma499m1s34n.amplifyapp.com/"
         frameborder="0"
         class="h-full"
       ></iframe>
